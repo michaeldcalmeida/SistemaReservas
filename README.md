@@ -1,2 +1,2 @@
 # SistemaReservas
-Sistema de Reservas (frota, equpamentos e salas)
+Sistema de Reservas (frota, equipamentos e salas)
